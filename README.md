@@ -20,4 +20,5 @@ This is a function that sorts an array of integers in ascending order using the 
 5. Cocktail shaker sort
 This is a function that sorts a doubly linked list of integers in ascending order using the Cocktail shaker sort algorithm
 
-
+6. Counting sort
+This is a function that sorts an array of integers in ascending order using the Counting sort algorithm
