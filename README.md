@@ -14,4 +14,7 @@ This is a function that sorts an array of integers in ascending order using the 
 3. Quick sort
 This is a function that sorts an array of integers in ascending order using the Quick sort algorithm
 
+4. Shell sort - Knuth Sequence
+This is a function that sorts an array of integers in ascending order using the Shell sort algorithm, using the Knuth sequence
+
 
