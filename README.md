@@ -25,3 +25,6 @@ This is a function that sorts an array of integers in ascending order using the 
 
 7. Merge sort
 This is a function that sorts an array of integers in ascending order using the Merge sort algorithm
+
+8. Heap sort
+This is a function that sorts an array of integers in ascending order using the Heap sort algorithm
