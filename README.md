@@ -22,3 +22,6 @@ This is a function that sorts a doubly linked list of integers in ascending orde
 
 6. Counting sort
 This is a function that sorts an array of integers in ascending order using the Counting sort algorithm
+
+7. Merge sort
+This is a function that sorts an array of integers in ascending order using the Merge sort algorithm
