@@ -17,4 +17,7 @@ This is a function that sorts an array of integers in ascending order using the 
 4. Shell sort - Knuth Sequence
 This is a function that sorts an array of integers in ascending order using the Shell sort algorithm, using the Knuth sequence
 
+5. Cocktail shaker sort
+This is a function that sorts a doubly linked list of integers in ascending order using the Cocktail shaker sort algorithm
+
 
