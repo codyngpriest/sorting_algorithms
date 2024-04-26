@@ -11,3 +11,7 @@ This is a function that sorts a doubly linked list of integers in ascending orde
 2. Selection sort
 This is a function that sorts an array of integers in ascending order using the Selection sort algorithm
 
+3. Quick sort
+This is a function that sorts an array of integers in ascending order using the Quick sort algorithm
+
+
